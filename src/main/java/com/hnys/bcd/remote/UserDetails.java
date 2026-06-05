@@ -1,4 +1,4 @@
-package com.hnys.bcd.servlet;
+package com.hnys.bcd.remote;
 
 import jakarta.ejb.Remote;
 
